@@ -6,7 +6,7 @@ import "./App.css";
 const App = () => {
   return (
     <main>
-      <div className='main'>
+      <div className='main  dark:bg-slate-800'>
         <div className='gradient' />
       </div>
 
